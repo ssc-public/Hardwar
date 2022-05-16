@@ -14,4 +14,3 @@
 - https://github.com/unicorn-engine/unicorn/blob/master/bindings/python/sample_mips.py
 - https://uweb.engr.arizona.edu/~ece369/Resources/spim/MIPSReference.pdf
 - https://github.com/taitgu/MIPSDecode
-- 
