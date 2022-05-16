@@ -1,0 +1,2 @@
+- https://docs.google.com/spreadsheets/d/1n6T-iSt_lZ9fD1JtFOhCqvyrfekoa0Q-4Or660KNmgk/edit?usp=sharing
+- https://www.instructables.com/id/Make-your-own-Enigma-Replica/
