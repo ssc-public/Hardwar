@@ -1,0 +1,7 @@
+- https://www.fpga4student.com/p/fpga-projects.html
+- https://docs.google.com/spreadsheets/d/1I__eo4bhcpjbvWUS88fV7HnQfkn-NKwyuUaXNYZD6bs/edit?usp=sharing
+- https://alchitry.com/blogs/tutorials/what-is-an-fpga
+- https://www.fpga4student.com/p/fpga-projects.html
+- https://www.youtube.com/watch?v=inrfigeLJeM
+- http://tnorm.blogfa.com/post/138
+- https://www.youtube.com/watch?v=P_DWwPqyXNg
