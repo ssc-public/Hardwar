@@ -1,1 +1,0 @@
-- [Quartus-Manual.pdf](https://github.com/ssc-public/Hardwar-Documents/files/8697919/Quartus-Manual.pdf)
