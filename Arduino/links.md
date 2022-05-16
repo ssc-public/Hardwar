@@ -1,2 +1,7 @@
 - https://docs.google.com/spreadsheets/d/1n6T-iSt_lZ9fD1JtFOhCqvyrfekoa0Q-4Or660KNmgk/edit?usp=sharing
 - https://www.instructables.com/id/Make-your-own-Enigma-Replica/
+- https://www.arduino.cc/en/Main/Software
+- https://www.arduino.cc/en/guide/linux
+- [Arduino-Junior.pdf](https://github.com/ssc-public/Hardwar-Documents/files/8697900/Arduino-Junior.pdf)
+- [DE2_pin_assignments.csv](https://github.com/ssc-public/Hardwar-Documents/files/8697902/DE2_pin_assignments.csv)
+- client: https://github.com/vahidzee/hardwarclient
